@@ -1,4 +1,4 @@
-//Funcos - Argumentos (ao chamar a funcao) e Parametros(dentro da funcao)
+//Funcoes - Argumentos (ao chamar a funcao) e Parametros(dentro da funcao)
 
 function sum (number1, number2) {       //sum = soma; parametros dentro do parentesis podem ser quantos forem, sem numero limite.
     console.log(number1+number2)        //quando a funcao for incovada/chamada, os valores precisam ser declarados

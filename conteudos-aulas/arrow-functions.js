@@ -8,3 +8,4 @@ const sum = (numberOne, numberTwo) => numberOne + numberTwo      //com este form
 console.log(`O primeiro número é ${numberOne}`)
 console.log(`O segundo número é ${numberTwo}`)
 console.log(`A soma dos dois números é ${sum (numberOne, numberTwo)}`)
+
