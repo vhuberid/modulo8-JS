@@ -41,7 +41,7 @@ function findAverageAndHighestSalary(peopleInformation) {
   /*cada vez que o for dá uma "passada", cada ciclo do for, ele pega uma posicao do array e le. A cada posicao que ele passa,
     ele pega as informacoes do array
     */
-  for (let i = 0; i <= peopleInformation.lenght; i++) {
+  for (let i = 0; i <= peopleInformation.length; i++) {
     const salary = peopleInformation[i].salary;
     const children = peopleInformation[i].numberOfChildren;
 
